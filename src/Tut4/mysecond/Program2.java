@@ -1,6 +1,6 @@
 package Tut4.mysecond;
 
-import myfirst.P;
+//import myfirst.P;
 
 class S extends P {
     public void bar() {

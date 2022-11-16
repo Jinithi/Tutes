@@ -10,8 +10,8 @@ public class Dictionary extends Book{
     }
     /*** for subquestion 2 implement toString() here ***/
     public String toString() {
-        String s = "Number of pages: " + super.toString();
-        s = s + ", Number of words: " + words;
-        return s;
+        String x = " Number of pages: " + super.toString();
+        x = x + ", Number of words: " + words;
+        return x;
     }
 }
