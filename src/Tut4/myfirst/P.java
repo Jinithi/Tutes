@@ -3,7 +3,7 @@ package Tut4.myfirst;
 public class P {
     public double x;
     protected double y;
-    private double z;
+    public double z;
     double w;
 
     public void foo() {
